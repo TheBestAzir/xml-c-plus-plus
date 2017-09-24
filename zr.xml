@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE Library SYSTEM "hh.dtd">
+<Library>
+<Book Bookid="12">
+<Title>朝花夕拾</Title>
+<Author>鲁迅</Author>
+<Price>30元</Price>
+<Publisher>人民教育出版社</Publisher>
+<Cost>2</Cost>
+</Book>
+<Member>
+<Name>
+<FirstName>q</FirstName>
+<MiddleName>w</MiddleName>
+<LastName>e</LastName>
+</Name>
+<Address>
+<HouseNumber>7</HouseNumber>
+<Street>8</Street>
+<City>9</City>
+</Address>
+</Member>
+</Library>
+
+
